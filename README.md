@@ -18,5 +18,5 @@ $DatabaseName = "DB_Name"  # Replace with your database name
 $BackupPath = "C:\backups\"  # Ensure this directory exists
 
 
-1.e. local_backup.ps1
+i.e. local_backup.ps1
 
