@@ -1,5 +1,8 @@
 SQL Server Backup Scripts
 =========================
+- Backup_DB_Genric.ps1 (Container based full backup)
+- local_backup.ps1 (Local full backup)
+
 
 1) Backup_DB_Genric.ps1 is a Script Which can be used to backup SQL server databases on Docker containers.
 
