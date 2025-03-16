@@ -5,7 +5,7 @@ SQL Server Backup Scripts
 
 Script will take 3 input parameetrs.
 
-i.e. Backup_DB_Genric.ps1 <container name> <database name> <SA password>
+i.e. Backup_DB_Genric.ps1 "container name" "database name" "SA password"
 
 2) Generic backup, no inpur parms, you can schedule this in Windows Task Scheduler to automate the backups.
 
